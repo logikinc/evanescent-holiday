@@ -41,20 +41,20 @@
   },
   "homepage": "https://github.com/nodeshift-starters/nodejs-istion-tracing",
   "devDependencies": {
-    "nodeshift": "~3.0.0",
-    "nyc": "~14.1.0",
-    "rhoaster": "^0.2.0",
+    "nodeshift": "~6.0.2",
+    "nyc": "~15.0.1",
+    "rhoaster": "^0.4.1",
     "supertest": "^4.0.0",
     "szero": "^1.0.1",
     "tap-spec": "~5.0.0",
-    "tape": "~4.10.0",
-    "xo": "~0.24.0"
+    "tape": "~5.0.0",
+    "xo": "~0.30.0"
   },
   "keywords": [],
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "4.17.1",
-    "kube-probe": "~0.3.1",
+    "kube-probe": "~0.5.0",
     "license-reporter": "^1.2.0",
     "request": "^2.87.0"
   }
